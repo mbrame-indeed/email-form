@@ -1,0 +1,14 @@
+body {
+    padding: 10px;
+  }
+  
+  input {
+    margin: 5px;
+  }
+  
+  div {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    max-width: 50%;
+}
